@@ -9,21 +9,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "Conditional
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{68315179-9653-4CC3-8726-E5B3D43F9E91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{C72D7AC2-C294-4896-B1CB-929D6E159B54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{C72D7AC2-C294-4896-B1CB-929D6E159B54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{DF90C561-D533-4C7D-A374-A10952A5B9B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{DF90C561-D533-4C7D-A374-A10952A5B9B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{08CA40CE-75FF-4123-A86D-B81A373AA6DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{08CA40CE-75FF-4123-A86D-B81A373AA6DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{1AF4549B-B637-4443-9628-BA2E89DF687E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{1AF4549B-B637-4443-9628-BA2E89DF687E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPerson", "IPerson\IPerson.csproj", "{40870868-473A-4ADE-B376-F97467E041E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPerson", "IPerson\IPerson.csproj", "{40870868-473A-4ADE-B376-F97467E041E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{B8E8FBD4-04D4-405B-9027-49D757D8BBDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{B8E8FBD4-04D4-405B-9027-49D757D8BBDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{C84FF2BA-EE58-43F8-9073-1D77D3FB928D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{C84FF2BA-EE58-43F8-9073-1D77D3FB928D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{A708E0E9-0C39-43E3-AF9D-349F0A5D7A6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{A708E0E9-0C39-43E3-AF9D-349F0A5D7A6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ÖDEV2", "ÖDEV2", "{05167B18-4EC8-4593-AF74-FF2C051E28EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferencesTypes", "ReferencesTypes\ReferencesTypes.csproj", "{EE2FF386-B550-4DB4-9D3E-D0757C3942C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{34F84DA5-B89B-472C-8178-6F4EDEC1A7A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,9 +81,21 @@ Global
 		{A708E0E9-0C39-43E3-AF9D-349F0A5D7A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A708E0E9-0C39-43E3-AF9D-349F0A5D7A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A708E0E9-0C39-43E3-AF9D-349F0A5D7A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2FF386-B550-4DB4-9D3E-D0757C3942C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2FF386-B550-4DB4-9D3E-D0757C3942C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2FF386-B550-4DB4-9D3E-D0757C3942C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2FF386-B550-4DB4-9D3E-D0757C3942C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F84DA5-B89B-472C-8178-6F4EDEC1A7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F84DA5-B89B-472C-8178-6F4EDEC1A7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F84DA5-B89B-472C-8178-6F4EDEC1A7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F84DA5-B89B-472C-8178-6F4EDEC1A7A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE2FF386-B550-4DB4-9D3E-D0757C3942C1} = {05167B18-4EC8-4593-AF74-FF2C051E28EF}
+		{34F84DA5-B89B-472C-8178-6F4EDEC1A7A4} = {05167B18-4EC8-4593-AF74-FF2C051E28EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1CE3FF63-A9B6-41B9-BB31-6BFA651B709C}
